@@ -1,4 +1,4 @@
-# Trio Java Challenge
+# Bike Rent API
 
 ### Scope
 
